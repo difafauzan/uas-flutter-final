@@ -17,7 +17,23 @@ Online shop juga memberikan kemudahan bagi para penjual untuk mengelola bisnis m
 Munculnya online shop merupakan hasil dari perpaduan antara kebutuhan konsumen akan kemudahan berbelanja dan kebutuhan para penjual untuk mengelola bisnis mereka secara efisien. Kedua kebutuhan tersebut dapat terpenuhi melalui online shop, yang memungkinkan konsumen untuk membeli produk secara online dengan mudah, dan para penjual untuk menjual produk mereka kepada konsumen yang lebih luas dengan biaya yang lebih rendah dibandingkan dengan menjual produk melalui toko fisik.
 
 
-A new Flutter project.
+# API 
+Kami menggunakan API dari https://stripe.com/
+![image](https://user-images.githubusercontent.com/83359019/210061812-2e1cfbcf-6905-4945-860e-1436f84fcc32.png)
+![image](https://user-images.githubusercontent.com/83359019/210061824-a1a6c8e3-d6d2-4e39-a053-56be2f495785.png)
+
+# Tampilan Aplikasi pada Real Device Smartphone
+![dh-real-1](https://user-images.githubusercontent.com/83359019/210061891-15e7f5e5-ce91-417c-8094-104d8e5ab9d3.jpg)
+![dh-real-2](https://user-images.githubusercontent.com/83359019/210061903-649e4373-ba81-4f10-8380-86667d903275.jpg)
+![dh-real-3](https://user-images.githubusercontent.com/83359019/210061913-e59d5f7a-ac84-4fc4-b511-5ae6fa9f52d2.jpg)
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
