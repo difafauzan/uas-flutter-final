@@ -20,7 +20,7 @@ Munculnya online shop merupakan hasil dari perpaduan antara kebutuhan konsumen a
 
 
 # API 
-Kami menggunakan API dari https://stripe.com/
+Kami menggunakan API dari [stripe.com](https://stripe.com/)
 ![image](https://user-images.githubusercontent.com/83359019/210061812-2e1cfbcf-6905-4945-860e-1436f84fcc32.png)
 ![image](https://user-images.githubusercontent.com/83359019/210061824-a1a6c8e3-d6d2-4e39-a053-56be2f495785.png)
 
