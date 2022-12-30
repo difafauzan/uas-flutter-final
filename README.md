@@ -1,5 +1,6 @@
 # D'H Mart
-# UAS -Pengembangan Aplikasi Mobile - IF B - Kelompok 4 - [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
+# UAS -Pengembangan Aplikasi Mobile - IF B - Kelompok 4 
+# [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
  
 ![image](https://user-images.githubusercontent.com/83359019/210060801-13599c7c-b83f-4692-ab5f-10006b8f1d04.png) (Deta Triandini - 1207050025)
 ![image](https://user-images.githubusercontent.com/83359019/210061124-77664707-8f39-4e52-8d03-8b5e21dcb602.png) (Difa Fauzan - 1207050028)
