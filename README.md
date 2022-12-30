@@ -1,7 +1,13 @@
-# flutter-uas-final
+# D'H Mart
+# UAS - Pengembangan Aplikasi Mobile - IF B
+Kelompok 4 
+![image](https://user-images.githubusercontent.com/83359019/210060801-13599c7c-b83f-4692-ab5f-10006b8f1d04.png) (Deta Triandini - 1207050025)
+![image](https://user-images.githubusercontent.com/83359019/210061124-77664707-8f39-4e52-8d03-8b5e21dcb602.png) (Difa Fauzan - 1207050028)
+![image](https://user-images.githubusercontent.com/83359019/210061307-4b87416d-83d9-4130-844e-8ff059e54c61.png) (Dilla Nur Fadhilla - 1207050029)
+![image](https://user-images.githubusercontent.com/83359019/210061335-66dae98d-6782-4adf-af8e-fa112af853c9.png) (Haikal Azhar - 1207050044)
 
-#Readbook
 
+# Latar Belakang Pembuatan Aplikasi 
 Online shopping atau berbelanja secara online telah menjadi salah satu cara yang populer untuk membeli barang dan jasa di era digital saat ini. Munculnya online shop atau toko online merupakan hasil dari perkembangan teknologi yang pesat, terutama internet, yang memungkinkan orang-orang untuk membeli barang dan jasa secara online dengan mudah dan cepat.
 
 Online shopping merupakan salah satu solusi bagi orang-orang yang tidak memiliki waktu untuk berbelanja secara tradisional di toko fisik atau yang berada di lokasi yang jauh dari toko-toko terdekat. Selain itu, online shopping juga memberikan kemudahan bagi para penjual untuk menjual produk mereka kepada konsumen yang lebih luas, tidak terbatas oleh lokasi geografis.
