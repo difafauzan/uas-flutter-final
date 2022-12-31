@@ -2,10 +2,10 @@
 # UAS -Pengembangan Aplikasi Mobile - IF B - Kelompok 4 
 # [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
  
-![image](https://user-images.githubusercontent.com/83359019/210060801-13599c7c-b83f-4692-ab5f-10006b8f1d04.png) (Deta Triandini - 1207050025)
-![image](https://user-images.githubusercontent.com/83359019/210061124-77664707-8f39-4e52-8d03-8b5e21dcb602.png) (Difa Fauzan - 1207050028)
-![image](https://user-images.githubusercontent.com/83359019/210061307-4b87416d-83d9-4130-844e-8ff059e54c61.png) (Dilla Nur Fadhilla - 1207050029)
-![image](https://user-images.githubusercontent.com/83359019/210061335-66dae98d-6782-4adf-af8e-fa112af853c9.png) (Haikal Azhar - 1207050044)
+![image](https://user-images.githubusercontent.com/83359019/210060801-13599c7c-b83f-4692-ab5f-10006b8f1d04.png) (Deta Triandini - 1207050025)<br>
+![image](https://user-images.githubusercontent.com/83359019/210061124-77664707-8f39-4e52-8d03-8b5e21dcb602.png) (Difa Fauzan - 1207050028)<br>
+![image](https://user-images.githubusercontent.com/83359019/210061307-4b87416d-83d9-4130-844e-8ff059e54c61.png) (Dilla Nur Fadhilla - 1207050029)<br>
+![image](https://user-images.githubusercontent.com/83359019/210061335-66dae98d-6782-4adf-af8e-fa112af853c9.png) (Haikal Azhar - 1207050044)<br>
 
 [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
 
@@ -18,6 +18,10 @@ Munculnya online shop juga disebabkan oleh adanya kebutuhan konsumen akan piliha
 Online shop juga memberikan kemudahan bagi para penjual untuk mengelola bisnis mereka secara efisien, dengan memanfaatkan sistem pembayaran online yang aman dan mudah, serta fitur-fitur lain seperti sistem pengiriman dan pengembalian produk yang terintegrasi.
 Munculnya online shop merupakan hasil dari perpaduan antara kebutuhan konsumen akan kemudahan berbelanja dan kebutuhan para penjual untuk mengelola bisnis mereka secara efisien. Kedua kebutuhan tersebut dapat terpenuhi melalui online shop, yang memungkinkan konsumen untuk membeli produk secara online dengan mudah, dan para penjual untuk menjual produk mereka kepada konsumen yang lebih luas dengan biaya yang lebih rendah dibandingkan dengan menjual produk melalui toko fisik.
 
+<h1>Pitch Deck</h1>
+<h2 align="center">
+<a href= https://docs.google.com/presentation/d/1_Es97Z93-Wss9-4Hc5HlShaS-G4Fim6tU7YdKpBmqcs/edit#slide=id.p> Pitch Deck </a>
+</h2>
 
 # API 
 Kami menggunakan API dari [stripe.com](https://stripe.com/)
@@ -25,14 +29,11 @@ Kami menggunakan API dari [stripe.com](https://stripe.com/)
 ![image](https://user-images.githubusercontent.com/83359019/210061824-a1a6c8e3-d6d2-4e39-a053-56be2f495785.png)
 
 # Tampilan Aplikasi pada Real Device Smartphone
-![dh-real-1](https://user-images.githubusercontent.com/83359019/210061891-15e7f5e5-ce91-417c-8094-104d8e5ab9d3.jpg)
-![dh-real-2](https://user-images.githubusercontent.com/83359019/210061903-649e4373-ba81-4f10-8380-86667d903275.jpg)
+![dh-real-1](https://user-images.githubusercontent.com/83359019/210061891-15e7f5e5-ce91-417c-8094-104d8e5ab9d3.jpg)<br>
+![dh-real-2](https://user-images.githubusercontent.com/83359019/210061903-649e4373-ba81-4f10-8380-86667d903275.jpg)<br>
 ![dh-real-3](https://user-images.githubusercontent.com/83359019/210061913-e59d5f7a-ac84-4fc4-b511-5ae6fa9f52d2.jpg)
 
-<h1>Pitch Deck</h1>
-<h2 align="center">
-<a href= https://docs.google.com/presentation/d/1_Es97Z93-Wss9-4Hc5HlShaS-G4Fim6tU7YdKpBmqcs/edit#slide=id.p> Pitch Deck </a>
-</h2>
+
 
 
 
