@@ -2,12 +2,12 @@
 # UAS -Pengembangan Aplikasi Mobile - IF B - Kelompok 4 
 # [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
  
-![image](https://user-images.githubusercontent.com/83359019/210060801-13599c7c-b83f-4692-ab5f-10006b8f1d04.png) <br>(Deta Triandini - 1207050025)
-![image](https://user-images.githubusercontent.com/83359019/210061124-77664707-8f39-4e52-8d03-8b5e21dcb602.png) <br>(Difa Fauzan - 1207050028)
-![image](https://user-images.githubusercontent.com/83359019/210061307-4b87416d-83d9-4130-844e-8ff059e54c61.png) <br>(Dilla Nur Fadhilla - 1207050029)
-![image](https://user-images.githubusercontent.com/83359019/210061335-66dae98d-6782-4adf-af8e-fa112af853c9.png) <br>(Haikal Azhar - 1207050044)
+![image](https://user-images.githubusercontent.com/83359019/210060801-13599c7c-b83f-4692-ab5f-10006b8f1d04.png) (Deta Triandini - 1207050025)
+![image](https://user-images.githubusercontent.com/83359019/210061124-77664707-8f39-4e52-8d03-8b5e21dcb602.png) (Difa Fauzan - 1207050028)
+![image](https://user-images.githubusercontent.com/83359019/210061307-4b87416d-83d9-4130-844e-8ff059e54c61.png) (Dilla Nur Fadhilla - 1207050029)
+![image](https://user-images.githubusercontent.com/83359019/210061335-66dae98d-6782-4adf-af8e-fa112af853c9.png) (Haikal Azhar - 1207050044)
 
-<p align= "center"> [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)</p>
+[Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/)
 
 # Latar Belakang Pembuatan Aplikasi 
 Online shopping atau berbelanja secara online telah menjadi salah satu cara yang populer untuk membeli barang dan jasa di era digital saat ini. Munculnya online shop atau toko online merupakan hasil dari perkembangan teknologi yang pesat, terutama internet, yang memungkinkan orang-orang untuk membeli barang dan jasa secara online dengan mudah dan cepat.
@@ -29,10 +29,10 @@ Kami menggunakan API dari [stripe.com](https://stripe.com/)
 ![dh-real-2](https://user-images.githubusercontent.com/83359019/210061903-649e4373-ba81-4f10-8380-86667d903275.jpg)
 ![dh-real-3](https://user-images.githubusercontent.com/83359019/210061913-e59d5f7a-ac84-4fc4-b511-5ae6fa9f52d2.jpg)
 
-<h2>Pitch Deck</h2>
-<p align="center">
+<h1>Pitch Deck</h1>
+<h2 align="center">
 <a href= https://docs.google.com/presentation/d/1_Es97Z93-Wss9-4Hc5HlShaS-G4Fim6tU7YdKpBmqcs/edit#slide=id.p> Pitch Deck </a>
-</p>
+</h2>
 
 
 
